@@ -1,8 +1,7 @@
 # scRNAseq-normal-lung
-# Normal Human Lung scRNA-seq | Learning Project
+# Normal Human Lung scRNA-seq
 
-I built this as my first single-cell RNA-seq analysis — working through the full Seurat pipeline from raw 10X data to annotated cell types.
-The dataset is normal human lung tissue from three donors (GSE132771), NML_I, NML_II, NML_III.
+Performed end-to-end scRNA-seq analysis of normal human lung tissue (GSE132771, ~11,600 cells) using Seurat, identifying 18 distinct cell populations as a reference baseline for disease comparison.
 
 ---
 
