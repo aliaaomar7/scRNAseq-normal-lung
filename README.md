@@ -1,7 +1,7 @@
 # scRNAseq-normal-lung
 # Normal Human Lung scRNA-seq
 
-Performed end-to-end scRNA-seq analysis of normal human lung tissue (GSE132771, ~11,600 cells) using Seurat, identifying 18 distinct cell populations as a reference baseline for disease comparison.
+Performed end-to-end scRNA-seq analysis of normal human lung tissue (GSE132771, ~11,612 cells) using Seurat, identifying 18 distinct cell populations as a reference baseline for disease comparison.
 
 ---
 
